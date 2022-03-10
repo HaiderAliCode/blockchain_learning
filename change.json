@@ -2,7 +2,7 @@
   "name": "Number #0200",
   "symbol": "cu",
   "description": "Collection of 1 numbers on the blockchain. This is the number 1/10.",
-  "seller_fee_basis_points": 500,
+  "seller_fee_basis_points": 5000,
   "image": "https://cdn.iconscout.com/icon/premium/png-256-thumb/online-nft-4309679-3592775.png",
   "attributes": [
     {

@@ -8,14 +8,14 @@
   "symbol": "cyu",
   "description": "nothing here",
   "seller_fee_basis_points": 1000,
-  "image": "https://gateway.pinata.cloud/ipfs/QmRqJarRKxVr65Rp3nZKygQd39gavbjPjGqoWmetX8ZVLw",
+  "image": "https://raw.githubusercontent.com/HaiderInvo/blockchain_learning/main/fraction1.png",
   "artistName": "nobody",
   "properties": {
     "hello_world": {
       "i am nobody": "yes you are right"
     },
     "files": {
-      "uri": "https://gateway.pinata.cloud/ipfs/QmRqJarRKxVr65Rp3nZKygQd39gavbjPjGqoWmetX8ZVLw",
+      "uri": "https://raw.githubusercontent.com/HaiderInvo/blockchain_learning/main/fraction1.png",
       "type": "image/png"
     },
     "creators": [
